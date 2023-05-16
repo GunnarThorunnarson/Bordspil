@@ -10,9 +10,8 @@
 - [Probability pathways](https://makecode.adafruit.com/courses/maker/projects/board-games)
 
 <!--
-### Íhlutir
 - [active buzzer](https://github.com/VESM1VS/AFANGI/blob/main/Myndir/activebuzzer.jpeg) 
-
+- How to Make a Board Game Circuit Tile! https://www.youtube.com/watch?v=HM61WVwi6Mg
 -->
 
 ---
