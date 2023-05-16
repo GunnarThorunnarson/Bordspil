@@ -1,6 +1,7 @@
 ### Borðspil
 
 - [retro electronic board games](https://www.oobject.com/category/retro-electronic-board-games/)
+- [Boardgame geek](https://boardgamegeek.com/boardgamecategory/1072/electronic)
 
 #### Simple circuit games & electronic board games: 
 - match borðspil: [1](https://www.youtube.com/watch?v=z8wadyaIsy0), [2](https://www.youtube.com/watch?v=OwhoSbvQ1yc&ab_channel=Kutuhal-SundayScienceSchool)
