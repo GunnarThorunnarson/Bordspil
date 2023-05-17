@@ -16,3 +16,11 @@
 -->
 
 ---
+
+#### Kóði
+
+- [Blink](https://learn.adafruit.com/adafruit-arduino-lesson-2-leds/blinking-the-led)
+- [Takki](https://docs.arduino.cc/tutorials/generic/digital-input-pullup)
+- [Buzzer](https://www.circuitbasics.com/how-to-use-active-and-passive-buzzers-on-the-arduino/#:~:text=Passive%20buzzers%20need%20a%20square,(pin%2C%20frequency%2C%20duration)%3B)
+- [Serial](https://github.com/VESM2VT/arduino/wiki/Forritun#skrifa%C3%B0-%C3%AD-serial-monitor)
+- [Random](https://reference.arduino.cc/reference/en/language/functions/random-numbers/random/)
