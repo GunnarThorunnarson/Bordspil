@@ -26,4 +26,6 @@
 <!--
 - [touchpad úr álpappír](https://medium.com/@paramaggarwal/a-touchpad-using-plastic-and-aluminum-foil-88042f2346)
 - How to Make a Board Game Circuit Tile! https://www.youtube.com/watch?v=HM61WVwi6Mg
+- https://www.youtube.com/watch?v=5_JgvaB3esg&ab_channel=QVisible
+- https://www.instructables.com/Use-a-DIY-Pressure-Plate-Switch-to-Automate-Your-H/
 -->
