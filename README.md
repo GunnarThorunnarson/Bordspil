@@ -16,7 +16,7 @@
 - [Buzzer](https://www.circuitbasics.com/how-to-use-active-and-passive-buzzers-on-the-arduino/#:~:text=Passive%20buzzers%20need%20a%20square,(pin%2C%20frequency%2C%20duration)%3B)
 - [Serial](https://github.com/VESM2VT/arduino/wiki/Forritun#skrifa%C3%B0-%C3%AD-serial-monitor)
 - [Random](https://reference.arduino.cc/reference/en/language/functions/random-numbers/random/)
-- [Þrýstiplata úr álpappír]https://www.instructables.com/Use-a-DIY-Pressure-Plate-Switch-to-Automate-Your-H/
+- [Þrýstiplata úr álpappír](https://www.instructables.com/Use-a-DIY-Pressure-Plate-Switch-to-Automate-Your-H/)
 
 <!--
 - [touchpad úr álpappír](https://medium.com/@paramaggarwal/a-touchpad-using-plastic-and-aluminum-foil-88042f2346)
