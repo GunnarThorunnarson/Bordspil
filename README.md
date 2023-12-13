@@ -13,6 +13,8 @@
 
 <br>
 
+---
+
 **Grunn málfræði:** breytur, HIGH/LOW, OUTPUT/INPUT, TRUE/FALSE, int/long, if/else og == samanburður. <br>
 **Föll:** setup(), loop(), pinMode(), digitalWrite(), digitalRead(), analogRead(), delay(), Serial.begin(), Serial.println(), tone(), noTone, random(), randomSeed()
 
