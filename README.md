@@ -1,5 +1,5 @@
 ## Borðspil með Arduino
-- [sýnidæmi](https://github.com/Chicken405/Skyrsla?tab=readme-ov-file)
+[sýnidæmi](https://github.com/Chicken405/Skyrsla?tab=readme-ov-file)
 <!--
 - [donkeykong](https://github.com/NidaleNieve/donkeykong/blob/main/README.md) 
 -->
