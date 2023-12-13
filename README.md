@@ -9,12 +9,12 @@
 - [DIY board games to handheld video game consoles](https://www.hackster.io/news/take-a-look-at-some-of-the-best-diy-gaming-projects-from-around-the-community-4596332d1c72)
 - [Pyramids secret](https://projecthub.arduino.cc/marcelomaximiano/fac9edcd-e76f-40c8-a4a4-c867072599c4)
 - [Would you rather](https://www.instructables.com/How-To-Make-A-Board-Game-Using-Arduino/)
+-->
 
 <!--
 - Match;  [1](https://www.youtube.com/watch?v=z8wadyaIsy0), [2](https://www.youtube.com/watch?v=OwhoSbvQ1yc&ab_channel=Kutuhal-SundayScienceSchool)
 - [Operation](https://youtu.be/4RF9nLUDt0Q?t=41)
 - [Probability pathways](https://makecode.adafruit.com/courses/maker/projects/board-games)
--->
 -->
 
 ---
