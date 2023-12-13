@@ -5,7 +5,7 @@
 - [donkeykong](https://github.com/NidaleNieve/donkeykong/blob/main/README.md) 
 -->
 
-### Kóðasýnidæmi:
+#### Kóðadæmi:
 - [Blink](https://learn.adafruit.com/adafruit-arduino-lesson-2-leds/blinking-the-led)
 - [Takki](https://docs.arduino.cc/tutorials/generic/digital-input-pullup)
 - [Buzzer](https://www.circuitbasics.com/how-to-use-active-and-passive-buzzers-on-the-arduino/#:~:text=Passive%20buzzers%20need%20a%20square,(pin%2C%20frequency%2C%20duration)%3B)
