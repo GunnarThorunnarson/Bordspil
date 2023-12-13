@@ -13,7 +13,6 @@ Með Arduino Uno, arcade takki, leds, buzzer (hátalari), Reed switch (segulskyn
 - [reed switch](https://lastminuteengineers.com/reed-switch-arduino-tutorial/?utm_content=cmp-true)
 
 
----
 
 **Grunn málfræði:** breytur, HIGH/LOW, OUTPUT/INPUT, int/long, if/else og == samanburður. <br>
 **Föll:** setup(), loop(), pinMode(), digitalWrite(), digitalRead(), analogRead(), delay(), Serial.begin(), Serial.println(), tone(), noTone, random(), randomSeed()
