@@ -11,7 +11,6 @@
 - [Random](https://reference.arduino.cc/reference/en/language/functions/random-numbers/random/)
 - [reed switch](https://lastminuteengineers.com/reed-switch-arduino-tutorial/?utm_content=cmp-true)
 
-<br>
 
 ---
 
