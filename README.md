@@ -1,4 +1,8 @@
 ### Borðspil
+
+- [donkeykong](https://github.com/NidaleNieve/donkeykong/blob/main/README.md) 
+
+<!--
 - [Boardgame geek](https://boardgamegeek.com/boardgamecategory/1072/electronic)
 - [retro electronic board games](https://www.oobject.com/category/retro-electronic-board-games/)
 - [Hackster boardgames](https://www.hackster.io/search?q=board%20games&i=projects)
@@ -10,6 +14,7 @@
 - Match;  [1](https://www.youtube.com/watch?v=z8wadyaIsy0), [2](https://www.youtube.com/watch?v=OwhoSbvQ1yc&ab_channel=Kutuhal-SundayScienceSchool)
 - [Operation](https://youtu.be/4RF9nLUDt0Q?t=41)
 - [Probability pathways](https://makecode.adafruit.com/courses/maker/projects/board-games)
+-->
 -->
 
 ---
