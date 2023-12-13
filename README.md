@@ -1,5 +1,5 @@
-## Borðspil með Arduino
-[sýnidæmi](https://github.com/Chicken405/Skyrsla?tab=readme-ov-file) 
+## Borðspil 
+Með Arduino Uno, arcade takki, leds, buzzer (hátalari), Reed switch (segulskynjari) og seglar, [sýnidæmi](https://github.com/Chicken405/Skyrsla?tab=readme-ov-file).
 
 <!--
 - [donkeykong](https://github.com/NidaleNieve/donkeykong/blob/main/README.md) 
