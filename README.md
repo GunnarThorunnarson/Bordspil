@@ -4,15 +4,19 @@
 - [donkeykong](https://github.com/NidaleNieve/donkeykong/blob/main/README.md) 
 -->
 
-Grunn málfræði; breytur, HIGH/LOW, OUTPUT/INPUT, TRUE/FALSE, int/long, if/else og == samanburður. Föll; setup(), loop(), pinMode(), digitalWrite(), digitalRead(), analogRead(), delay(), Serial.begin(), Serial.println(), tone(), noTone, random(), randomSeed()
-
 ### Kóðasýnidæmi:
 - [Blink](https://learn.adafruit.com/adafruit-arduino-lesson-2-leds/blinking-the-led)
 - [Takki](https://docs.arduino.cc/tutorials/generic/digital-input-pullup)
 - [Buzzer](https://www.circuitbasics.com/how-to-use-active-and-passive-buzzers-on-the-arduino/#:~:text=Passive%20buzzers%20need%20a%20square,(pin%2C%20frequency%2C%20duration)%3B)
 - [Random](https://reference.arduino.cc/reference/en/language/functions/random-numbers/random/)
 - [reed switch](https://lastminuteengineers.com/reed-switch-arduino-tutorial/?utm_content=cmp-true)
-  
+
+<br>
+
+Grunn málfræði; breytur, HIGH/LOW, OUTPUT/INPUT, TRUE/FALSE, int/long, if/else og == samanburður. <br>
+Föll; setup(), loop(), pinMode(), digitalWrite(), digitalRead(), analogRead(), delay(), Serial.begin(), Serial.println(), tone(), noTone, random(), randomSeed()
+
+
 <!--
 - [touchpad úr álpappír](https://medium.com/@paramaggarwal/a-touchpad-using-plastic-and-aluminum-foil-88042f2346)
 - How to Make a Board Game Circuit Tile! https://www.youtube.com/watch?v=HM61WVwi6Mg
