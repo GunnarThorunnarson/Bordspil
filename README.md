@@ -1,17 +1,12 @@
-### Borðspil
+## Borðspil með Arduino
 - [sýnidæmi](https://github.com/Chicken405/Skyrsla?tab=readme-ov-file)
 <!--
 - [donkeykong](https://github.com/NidaleNieve/donkeykong/blob/main/README.md) 
 -->
 
+Grunn málfræði; breytur, HIGH/LOW, OUTPUT/INPUT, TRUE/FALSE, int/long, if/else og == samanburður. Föll; setup(), loop(), pinMode(), digitalWrite(), digitalRead(), analogRead(), delay(), Serial.begin(), Serial.println(), tone(), noTone, random(), randomSeed()
 
----
-
-#### Kóði
-- Grunn málfræði; breytur, HIGH/LOW, OUTPUT/INPUT, TRUE/FALSE, int/long, if/else og == samanburður
-- Föll; setup(), loop(), pinMode(), digitalWrite(), digitalRead(), analogRead(), delay(), Serial.begin(), Serial.println(), tone(), noTone, random(), randomSeed()
-
-Kóðasýnidæmi:
+### Kóðasýnidæmi:
 - [Blink](https://learn.adafruit.com/adafruit-arduino-lesson-2-leds/blinking-the-led)
 - [Takki](https://docs.arduino.cc/tutorials/generic/digital-input-pullup)
 - [Buzzer](https://www.circuitbasics.com/how-to-use-active-and-passive-buzzers-on-the-arduino/#:~:text=Passive%20buzzers%20need%20a%20square,(pin%2C%20frequency%2C%20duration)%3B)
