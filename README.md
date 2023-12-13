@@ -1,5 +1,6 @@
 ## Borðspil með Arduino
-[sýnidæmi](https://github.com/Chicken405/Skyrsla?tab=readme-ov-file)
+[sýnidæmi](https://github.com/Chicken405/Skyrsla?tab=readme-ov-file) 
+
 <!--
 - [donkeykong](https://github.com/NidaleNieve/donkeykong/blob/main/README.md) 
 -->
@@ -14,7 +15,7 @@
 
 ---
 
-**Grunn málfræði:** breytur, HIGH/LOW, OUTPUT/INPUT, TRUE/FALSE, int/long, if/else og == samanburður. <br>
+**Grunn málfræði:** breytur, HIGH/LOW, OUTPUT/INPUT, int/long, if/else og == samanburður. <br>
 **Föll:** setup(), loop(), pinMode(), digitalWrite(), digitalRead(), analogRead(), delay(), Serial.begin(), Serial.println(), tone(), noTone, random(), randomSeed()
 
 
