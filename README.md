@@ -59,3 +59,10 @@ Gamalt
 - [Operation](https://youtu.be/4RF9nLUDt0Q?t=41)
 - [Probability pathways](https://makecode.adafruit.com/courses/maker/projects/board-games)
 -->
+
+<!--
+Linkar
+- random.py  nota random fyrir tengi https://github.com/VESM1VS/AFANGI/blob/main/python/Random.py
+- passive buzzer lög https://github.com/VESM1VS/Kennarasvaedi/blob/master/Boardgame/PassiveBuzzerMario.py
+- passive buzzer tónar https://github.com/VESM1VS/Kennarasvaedi/blob/master/Boardgame/PassiveBuzzer.py
+-->
