@@ -1,5 +1,5 @@
 ## Borðspil 
-Í þessu verkefni ætlið þið að hanna og smíða frá grunni rafrænt borðspil með notkun Arduino Uno forritun og íhlutum. Spilið má einnig innihalda spilastokk, teninga, leikmenn og fleira sem ykkur dettur í hug. Hugið vel að leikjaspilun og reglum. Þegar þið hafið lokið við verkefnið ættuð þið að hafa fullbúið rafrænt borðspil í höndunum sem er tilbúið að fara í verslanir, [sýnidæmi](https://github.com/Chicken405/Skyrsla?tab=readme-ov-file).
+Í þessu verkefni ætlið þið að hanna og smíða frá grunni rafrænt borðspil með notkun Arduino og íhlutum. Spilið má einnig innihalda spilastokk, teninga, leikmenn og fleira sem ykkur dettur í hug. Hugið vel að leikjaspilun og reglum. Þegar þið hafið lokið við verkefnið ættuð þið að hafa fullbúið rafrænt borðspil í höndunum sem er tilbúið að fara í verslanir, [sýnidæmi](https://github.com/Chicken405/Skyrsla?tab=readme-ov-file).
 
 [Borðspilið](https://boardgamegeek.com/boardgamecategory/1072/electronic) þarf að innihalda eftirfarandi íhluti (einn eða fleiri):
 
@@ -27,6 +27,8 @@
 1. Skrifið spilaleiðbeiningar á toppinn.
 
 ---
+
+[Arduino nano](https://www.studiopieters.nl/arduino-nano-pinout/)
 
 ### Kóðadæmi:
 1. [Blink](https://learn.adafruit.com/adafruit-arduino-lesson-2-leds/blinking-the-led)
