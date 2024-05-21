@@ -6,7 +6,7 @@
 - [ ] Leds
 - [ ] arcade takka
 - [ ] buzzer/hátalara 
-- [ ] [reed switch](https://lastminuteengineers.com/reed-switch-arduino-tutorial/)
+- [ ] reed switch
 - [ ] on/off takki og batterí.
       
 <!--
