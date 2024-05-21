@@ -37,8 +37,8 @@
 
 
 #### Málfræði 
-breytur, HIGH/LOW, OUTPUT/INPUT, int/long, if/else og == . <br>
-**Föll:** setup(), loop(), pinMode(), digitalWrite(), digitalRead(), analogRead(), delay(), Serial.begin(), Serial.println(), tone(), noTone, random(), randomSeed()
+- breytur, HIGH/LOW, OUTPUT/INPUT, int/long, if/else og == 
+- setup(), loop(), pinMode(), digitalWrite(), digitalRead(), analogRead(), delay(), Serial.begin(), Serial.println(), tone(), noTone, random(), randomSeed()
 
 
 
