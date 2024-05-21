@@ -41,6 +41,7 @@
 - setup(), loop(), pinMode(), digitalWrite(), digitalRead(), analogRead(), delay(), Serial.begin(), Serial.println(), tone(), noTone, random(), randomSeed()
 
 
+> driver CH340 rekilinn https://sparks.gogo.co.nz/ch340.html
 
 <!--
 Gamalt
