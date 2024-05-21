@@ -1,7 +1,7 @@
 ## Borðspil 
 Í þessu verkefni ætlið þið að hanna og smíða frá grunni rafrænt borðspil með notkun Arduino Uno forritun og íhlutum. Spilið má einnig innihalda spilastokk, teninga, leikmenn og fleira sem ykkur dettur í hug. Hugið vel að leikjaspilun og reglum. Þegar þið hafið lokið við verkefnið ættuð þið að hafa fullbúið rafrænt borðspil í höndunum sem er tilbúið að fara í verslanir, [sýnidæmi](https://github.com/Chicken405/Skyrsla?tab=readme-ov-file).
 
-Borðspilið þarf að innihalda eftirfarandi íhluti (einn eða fleiri):
+[Borðspilið](https://boardgamegeek.com/boardgamecategory/1072/electronic) þarf að innihalda eftirfarandi íhluti (einn eða fleiri):
 
 - [ ] Leds
 - [ ] arcade takka
@@ -9,10 +9,10 @@ Borðspilið þarf að innihalda eftirfarandi íhluti (einn eða fleiri):
 - [ ] [reed switch](https://lastminuteengineers.com/reed-switch-arduino-tutorial/)
 - [ ] on/off takki og batterí.
       
-#### Ýmis borðspil fyrir hugmyndir:
+<!--
 - [Pyramids secret](https://projecthub.arduino.cc/marcelomaximiano/fac9edcd-e76f-40c8-a4a4-c867072599c4)
 - [Would you rather](https://www.instructables.com/How-To-Make-A-Board-Game-Using-Arduino/)
-- [Electronic boardgames](https://boardgamegeek.com/boardgamecategory/1072/electronic)
+-->
 
 ---
 
