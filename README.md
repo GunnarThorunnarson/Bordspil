@@ -16,7 +16,7 @@
 
 ---
 
-### Hönnun með Inkscape
+### Hönnun með [Inkscape](https://github.com/VESM1VS/AFANGI/wiki/2D-h%C3%B6nnun)
 1. Hannið og útfærið [Boardgame template](https://www.pinterest.com.mx/pin/595741856946792806/) útfrá leikjahönnun.
 1. [Grunnur fyrir borðspil](https://github.com/VESM1VS/AFANGI/blob/main/Myndir/bordspil_lok_V24.svg)
 1. Mál á götum:
