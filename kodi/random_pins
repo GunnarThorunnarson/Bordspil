@@ -1,0 +1,14 @@
+int NO_OF_PINS = 6;
+int outputPins[NO_OF_PINS] = {2, 3, 4, 5, 6, 7};
+int r = outputPins[randomNumber];
+digitalWrite(r, HIGH);
+
+/*
+then:
+Turn off all pins
+Wait for button to be pressed
+Generate a random number
+Use that number to get an output pin from the array like: thePin= outputPins[randomNumber]
+Turn on that one pin
+Set some timer to stop button from being pressed again too soon
+*/
