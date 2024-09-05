@@ -16,8 +16,8 @@
 
 ---
 
-### Hönnun með [Inkscape](https://github.com/VESM1VS/AFANGI/wiki/2D-h%C3%B6nnun)
-1. Hannið og útfærið [Boardgame template](https://www.pinterest.com.mx/pin/595741856946792806/) útfrá leikjahönnun.
+### Hönnun 
+1. Notaðu [Inkscape](https://github.com/GunnarThorunnarson/Bordspil/blob/main/Inkscape.md) til að búa til lokið fyrir borðspilið.
 1. [Grunnur fyrir borðspil](https://github.com/VESM1VS/AFANGI/blob/main/Myndir/bordspil_lok_V24.svg)
 1. Mál á götum:
    * Led (5 mm): Gat: 5 mm þvermál
@@ -26,7 +26,10 @@
    * Arcade takki (lítill 28 mm): Gat: 25 mm þvermál
 1. Skrifið spilaleiðbeiningar á toppinn.
 
+> [Boardgame templates](https://www.pinterest.com.mx/pin/595741856946792806/) fyrir hugmyndir
+
 ---
+
 <!--
 [Arduino nano](https://www.studiopieters.nl/arduino-nano-pinout/)
 
