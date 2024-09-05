@@ -1,14 +1,17 @@
 ## Borðspil 
 Í þessu verkefni ætlið þið að hanna, forrita og smíða frá grunni rafrænt borðspil. Spilið má einnig innihalda spilastokk, teninga, leikmenn og fleira sem ykkur dettur í hug. Hugið vel að leikjaspilun og reglum. Þegar þið hafið lokið við verkefnið ættuð þið að hafa fullbúið rafrænt borðspil í höndunum sem er tilbúið að fara í verslanir, [sýnidæmi](https://github.com/Chicken405/Skyrsla?tab=readme-ov-file).
 
-[Borðspilið](https://boardgamegeek.com/boardgamecategory/1072/electronic) þarf að innihalda eftirfarandi íhluti (einn eða fleiri):
+Borðspilið þarf að innihalda eftirfarandi íhluti (einn eða fleiri):
 
 - [ ] Leds
 - [ ] arcade takka
 - [ ] buzzer/hátalara 
 - [ ] reed switch
 - [ ] on/off takki og batterí.
-      
+
+
+> [Boardgame templates](https://www.pinterest.com.mx/pin/595741856946792806/) og [rafræn borðspil](https://boardgamegeek.com/boardgamecategory/1072/electronic) fyrir hugmyndavinnu.
+
 <!--
 - [Pyramids secret](https://projecthub.arduino.cc/marcelomaximiano/fac9edcd-e76f-40c8-a4a4-c867072599c4)
 - [Would you rather](https://www.instructables.com/How-To-Make-A-Board-Game-Using-Arduino/)
@@ -25,8 +28,6 @@
    * Arcade takki (mið 65 mm): Gat 25 mm þvermál eða 58mm þvermál.
    * Arcade takki (lítill 28 mm): Gat: 25 mm þvermál
 1. Skrifið spilaleiðbeiningar á toppinn.
-
-> [Boardgame templates](https://www.pinterest.com.mx/pin/595741856946792806/) fyrir hugmyndir
 
 ---
 
