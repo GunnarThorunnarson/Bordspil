@@ -26,8 +26,10 @@ Borðspilið þarf að innihalda eftirfarandi íhluti (einn eða fleiri):
    * Led (5 mm): Gat: 5 mm þvermál
    * Arcade takki (stór 100 mm): Gat: 94 mm þvermál   
    * Arcade takki (mið 65 mm): Gat 25 mm þvermál eða 58mm þvermál.
-   * Arcade takki (lítill 28 mm): Gat: 25 mm þvermál
 1. Skrifið spilaleiðbeiningar á toppinn.
+
+<!--   * Arcade takki (lítill 28 mm): Gat: 25 mm þvermál -->
+
 
 ---
 
