@@ -86,7 +86,7 @@ Borðspilið þarf að innihalda eftirfarandi íhluti (einn eða fleiri):
 
 ---
 
-#### Forritun 
+### Forritun 
 (væntanlegt)
 
 
