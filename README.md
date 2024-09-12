@@ -19,7 +19,7 @@ Borðspilið þarf að innihalda eftirfarandi íhluti (einn eða fleiri):
 
 ---
 
-### Hönnun 
+### Hönnun (tími 1)
 <details>
 <summary>Hönnun - leiðbeiningar</summary>
 <br>
@@ -37,7 +37,7 @@ Borðspilið þarf að innihalda eftirfarandi íhluti (einn eða fleiri):
 
 ---
 
-### Lóðun 
+### Lóðun (tími 2)
 <details>
 <summary>Lóðun - leiðbeiningar</summary>
 <br>
@@ -86,7 +86,7 @@ Borðspilið þarf að innihalda eftirfarandi íhluti (einn eða fleiri):
 
 ---
 
-### Forritun 
+### Forritun (tími 3)
 (væntanlegt)
 
 
