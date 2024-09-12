@@ -20,6 +20,10 @@ Borðspilið þarf að innihalda eftirfarandi íhluti (einn eða fleiri):
 ---
 
 ### Hönnun 
+<details>
+<summary>Hönnun - leiðbeiningar</summary>
+<br>
+
 1. Notaðu [Inkscape](https://github.com/GunnarThorunnarson/Bordspil/blob/main/Inkscape.md) til að búa til lokið fyrir borðspilið (svartur litur er notaður fyrir laserskurð).
 1. Notaðu þenna [lok/topp](https://github.com/GunnarThorunnarson/Bordspil/blob/main/bordspil_lok_V24.svg) template fyrir borðspilið.
 1. Mál á götum:
@@ -29,6 +33,7 @@ Borðspilið þarf að innihalda eftirfarandi íhluti (einn eða fleiri):
    * Arcade takki (lítill 28 mm): Gat: 25 mm þvermál
 1. Skrifið spilaleiðbeiningar á toppinn.
 
+</details>
 
 ---
 
