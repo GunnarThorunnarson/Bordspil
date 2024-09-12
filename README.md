@@ -42,7 +42,7 @@ Borðspilið þarf að innihalda eftirfarandi íhluti (einn eða fleiri):
 <summary>Lóðun - leiðbeiningar</summary>
 <br>
 
-### Aðstaða og öryggi
+#### Aðstaða og öryggi
 
 1. Hafa gott loftrými, t.d. opinn gluggi og vifta, ekki anda að þér reyknum.
 1. Nota öryggisgleraugu.
@@ -51,7 +51,7 @@ Borðspilið þarf að innihalda eftirfarandi íhluti (einn eða fleiri):
 1. Mundu að slökkva á lóðunartækinu í lok tímans.
 1. Muna að þvo vel hendur eftir að hafa lóðað, blýagnir á höndum.
 
-### Lóðun
+#### Lóðun
 1. Nota rakan svamp til að hreinsa odd í byrjun og í lokin.
 1. Hreinsaðu odd í hvert sinn sem þú lóðar.
 1. 315 gráður Celsíur fyrir snögga lóðun á punktum, 60/40 tin (60% tin, 40% blý)
@@ -61,22 +61,8 @@ Borðspilið þarf að innihalda eftirfarandi íhluti (einn eða fleiri):
 
 ---
 
-<!--
-### Lóðun með blýlausu tini (e. lead free soldering)
 
-Oft blanda af tini, silfri og kopar.
-
-* Stilla á 400 gráður celsíus (370-430)
-* [Lead vs Lead Free](https://www.youtube.com/watch?v=A_xiu8JF_s4)
-* [Lead Free Soldering Compared to Lead Soldering | Tips & Methods |](https://www.youtube.com/watch?v=wx9aszQZ6uE)
-* [Solder Alloys Test - Lead and Lead Free Solder](https://www.youtube.com/watch?v=_f7-5c2B5YY)
-
-
----
-
--->
-
-### Tutorial og sýnidæmi
+#### Tutorial og sýnidæmi
 1. [Soldering, setup](https://www.instructables.com/lesson/Soldering-1/) 
 1. [Algeng mistök](https://learn.adafruit.com/adafruit-guide-excellent-soldering/common-problems)
 1. [Að lóða og aflóða](https://learn.adafruit.com/collins-lab-soldering) (myndband)
@@ -84,27 +70,31 @@ Oft blanda af tini, silfri og kopar.
 
 ---
 
-### Vírar
+#### Vírar
 * [Að vinna með víra](https://learn.sparkfun.com/tutorials/working-with-wire)
 * [Að lóða vír saman](https://www.youtube.com/watch?v=Zu3TYBs65FM) (myndband)
 * [Splicing (Y)](https://youtu.be/eI3fxTH6f6I?t=245) (mynband)
 
 ---
 
-### Æfingar
+#### Æfingar
 
 1. Klippa niður jumpers og lóða í veroboard (prófa líka fjölþætta víra).
 1. lóða víra saman (Y splicing) og nota herpihólk.
 
-<!--
-1. sleppa lóðun inntakshaus (header).
-1. _Ef tími gefst; lóða víra saman (Y splicing) og nota herpihólk._
--->
-
 </details>
 
+---
+
+#### Forritun (væntanlegt)
+
+
+---
+
 
 <!--
+## GAMALT - ARDUINO
+
 [Arduino nano](https://www.studiopieters.nl/arduino-nano-pinout/)
 ### Kóðadæmi:
 1. [Blink](https://learn.adafruit.com/adafruit-arduino-lesson-2-leds/blinking-the-led)
@@ -120,8 +110,6 @@ Oft blanda af tini, silfri og kopar.
 
 > driver CH340 rekilinn https://sparks.gogo.co.nz/ch340.html
 -->
-
-
 
 <!--
 Linkar
