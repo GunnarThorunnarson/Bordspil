@@ -12,7 +12,7 @@
 - [Inkscape Beginner Tutorials](https://www.youtube.com/playlist?list=PLynG8gQD-n8BMplEVZVsoYlaRgqzG1qc4)  
 - [Inkscape Video Tutorials, myndbönd](https://www.youtube.com/playlist?list=PLGLfVvz_LVvTSi9bKrvGR2_DBg0Tv8Dxo) 
 - [Að flytja inn mynd og breyta í vektor (myndband)](https://www.youtube.com/watch?v=37040oburxc&list=PLm7mAipxdK9_usfFFY3WY84ZJknJEeiUZ&index=3)
-
+- [Inkscape Tutorial: Set Up An Image for Laser Cutting](https://www.youtube.com/watch?v=pJ1X_HACw40)
 
 <!--
 #### Að vinna með `path` 
