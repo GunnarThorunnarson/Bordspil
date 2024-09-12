@@ -29,14 +29,78 @@ Borðspilið þarf að innihalda eftirfarandi íhluti (einn eða fleiri):
    * Arcade takki (lítill 28 mm): Gat: 25 mm þvermál
 1. Skrifið spilaleiðbeiningar á toppinn.
 
-<!--    -->
 
+---
+
+### Lóðun 
+<details>
+<summary>Lóðun - leiðbeiningar</summary>
+<br>
+
+### Aðstaða og öryggi
+
+1. Hafa gott loftrými, t.d. opinn gluggi og vifta, ekki anda að þér reyknum.
+1. Nota öryggisgleraugu.
+1. Hafa undirlag sem þolir hita.
+1. Passa snúrur og umgengni í kring.
+1. Mundu að slökkva á lóðunartækinu í lok tímans.
+1. Muna að þvo vel hendur eftir að hafa lóðað, blýagnir á höndum.
+
+### Lóðun
+1. Nota rakan svamp til að hreinsa odd í byrjun og í lokin.
+1. Hreinsaðu odd í hvert sinn sem þú lóðar.
+1. 315 gráður Celsíur fyrir snögga lóðun á punktum, 60/40 tin (60% tin, 40% blý)
+1. 370 gráður fyrir holur snögglega, 60/40 tin.
+1. Ef of mikill hiti eða of lengi þá hætta á að bræða rásir (e. circuits).
+1. Ef of lítill hiti þá færðu kalda lóðningu (e. cold solder joint) sem lítur út einsog dropi.
 
 ---
 
 <!--
-[Arduino nano](https://www.studiopieters.nl/arduino-nano-pinout/)
+### Lóðun með blýlausu tini (e. lead free soldering)
 
+Oft blanda af tini, silfri og kopar.
+
+* Stilla á 400 gráður celsíus (370-430)
+* [Lead vs Lead Free](https://www.youtube.com/watch?v=A_xiu8JF_s4)
+* [Lead Free Soldering Compared to Lead Soldering | Tips & Methods |](https://www.youtube.com/watch?v=wx9aszQZ6uE)
+* [Solder Alloys Test - Lead and Lead Free Solder](https://www.youtube.com/watch?v=_f7-5c2B5YY)
+
+
+---
+
+-->
+
+### Tutorial og sýnidæmi
+1. [Soldering, setup](https://www.instructables.com/lesson/Soldering-1/) 
+1. [Algeng mistök](https://learn.adafruit.com/adafruit-guide-excellent-soldering/common-problems)
+1. [Að lóða og aflóða](https://learn.adafruit.com/collins-lab-soldering) (myndband)
+1. [How to solder header pins](https://youtu.be/8Z-2wPWGnqE?t=124) (myndband)
+
+---
+
+### Vírar
+* [Að vinna með víra](https://learn.sparkfun.com/tutorials/working-with-wire)
+* [Að lóða vír saman](https://www.youtube.com/watch?v=Zu3TYBs65FM) (myndband)
+* [Splicing (Y)](https://youtu.be/eI3fxTH6f6I?t=245) (mynband)
+
+---
+
+### Æfingar
+
+1. Klippa niður jumpers og lóða í veroboard (prófa líka fjölþætta víra).
+1. lóða víra saman (Y splicing) og nota herpihólk.
+
+<!--
+1. sleppa lóðun inntakshaus (header).
+1. _Ef tími gefst; lóða víra saman (Y splicing) og nota herpihólk._
+-->
+
+</details>
+
+
+<!--
+[Arduino nano](https://www.studiopieters.nl/arduino-nano-pinout/)
 ### Kóðadæmi:
 1. [Blink](https://learn.adafruit.com/adafruit-arduino-lesson-2-leds/blinking-the-led)
 1. [Takki](https://docs.arduino.cc/tutorials/generic/digital-input-pullup)
@@ -49,26 +113,10 @@ Borðspilið þarf að innihalda eftirfarandi íhluti (einn eða fleiri):
 - breytur, HIGH/LOW, OUTPUT/INPUT, int/long, if/else og == 
 - setup(), loop(), pinMode(), digitalWrite(), digitalRead(), analogRead(), delay(), Serial.begin(), Serial.println(), tone(), noTone, random(), randomSeed()
 
-
 > driver CH340 rekilinn https://sparks.gogo.co.nz/ch340.html
 -->
 
-<!--
-Gamalt
-- [touchpad úr álpappír](https://medium.com/@paramaggarwal/a-touchpad-using-plastic-and-aluminum-foil-88042f2346)
-- How to Make a Board Game Circuit Tile! https://www.youtube.com/watch?v=HM61WVwi6Mg
-- https://www.youtube.com/watch?v=5_JgvaB3esg&ab_channel=QVisible
-- [Þrýstiplata úr álpappír](https://www.instructables.com/Use-a-DIY-Pressure-Plate-Switch-to-Automate-Your-H/)
-- [Boardgame geek](https://boardgamegeek.com/boardgamecategory/1072/electronic)
-- [retro electronic board games](https://www.oobject.com/category/retro-electronic-board-games/)
-- [Hackster boardgames](https://www.hackster.io/search?q=board%20games&i=projects)
-- [DIY board games to handheld video game consoles](https://www.hackster.io/news/take-a-look-at-some-of-the-best-diy-gaming-projects-from-around-the-community-4596332d1c72)
-- [Pyramids secret](https://projecthub.arduino.cc/marcelomaximiano/fac9edcd-e76f-40c8-a4a4-c867072599c4)
-- [Would you rather](https://www.instructables.com/How-To-Make-A-Board-Game-Using-Arduino/)
-- Match;  [1](https://www.youtube.com/watch?v=z8wadyaIsy0), [2](https://www.youtube.com/watch?v=OwhoSbvQ1yc&ab_channel=Kutuhal-SundayScienceSchool)
-- [Operation](https://youtu.be/4RF9nLUDt0Q?t=41)
-- [Probability pathways](https://makecode.adafruit.com/courses/maker/projects/board-games)
--->
+
 
 <!--
 Linkar
