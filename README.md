@@ -95,10 +95,12 @@ Borðspilið þarf að innihalda eftirfarandi íhluti (einn eða fleiri):
 2. [Print](https://github.com/VESM1VS/AFANGI/blob/main/python/2_Led_Print.py)
 3. [Takki](https://github.com/VESM1VS/AFANGI/blob/main/python/3_Takkar.py)
 4. [Takki og LED](https://github.com/VESM1VS/AFANGI/blob/main/python/4_Takki_Led.py)
-5. [Hljóð](https://github.com/VESM1VS/AFANGI/blob/main/python/PassiveBuzzer.py)
+5. [Hljóð](https://github.com/VESM1VS/AFANGI/blob/main/python/PassiveBuzzer.py)  og [Mario (lag)](https://github.com/VESM1VS/AFANGI/blob/main/python/PassiveBuzzerMario.py)
 6. [reed switch (segull)](https://github.com/VESM1VS/AFANGI/blob/main/python/ReedSwitch.py)
 7. [random](https://github.com/VESM1VS/AFANGI/blob/main/python/Random.py)
-   
+
+:warning: **Ekki nota pinna; GPIO0, GPIO3, GPIO19, GPIO20, GPIO45, GPIO46.** :warning:
+
 </details>
 
 ---
