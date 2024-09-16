@@ -90,8 +90,7 @@ Borðspilið þarf að innihalda eftirfarandi íhluti (einn eða fleiri):
 <details>
 <summary>Forritun - kóðadæmi</summary>
 <br>
-  
-Kóðasýnidæmi:
+
 1. [Blink](https://github.com/VESM1VS/AFANGI/blob/main/python/1_Blink.py)
 2. [Print](https://github.com/VESM1VS/AFANGI/blob/main/python/2_Led_Print.py)
 3. [Takki](https://github.com/VESM1VS/AFANGI/blob/main/python/3_Takkar.py)
