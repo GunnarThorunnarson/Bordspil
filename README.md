@@ -87,11 +87,19 @@ Borðspilið þarf að innihalda eftirfarandi íhluti (einn eða fleiri):
 ---
 
 ### Forritun (tími 3)
-(væntanlegt)
 
-
+Kóðasýnidæmi:
+1. [Blink](https://github.com/VESM1VS/AFANGI/blob/main/python/1_Blink.py)
+2. [Print](https://github.com/VESM1VS/AFANGI/blob/main/python/2_Led_Print.py)
+3. [Takki](https://github.com/VESM1VS/AFANGI/blob/main/python/3_Takkar.py)
+4. [Takki og LED](https://github.com/VESM1VS/AFANGI/blob/main/python/4_Takki_Led.py)
+5. [Hljóð](https://github.com/VESM1VS/AFANGI/blob/main/python/PassiveBuzzer.py)
+6. [reed switch (segull)](https://github.com/VESM1VS/AFANGI/blob/main/python/ReedSwitch.py)
+7. [random](https://github.com/VESM1VS/AFANGI/blob/main/python/Random.py)
+   
 ---
 
+> driver CH340 rekilinn https://sparks.gogo.co.nz/ch340.html
 
 <!--
 ## GAMALT - ARDUINO
