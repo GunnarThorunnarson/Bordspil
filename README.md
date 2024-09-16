@@ -87,7 +87,10 @@ Borðspilið þarf að innihalda eftirfarandi íhluti (einn eða fleiri):
 ---
 
 ### Forritun (tími 3)
-
+<details>
+<summary>Forritun - kóðadæmi</summary>
+<br>
+  
 Kóðasýnidæmi:
 1. [Blink](https://github.com/VESM1VS/AFANGI/blob/main/python/1_Blink.py)
 2. [Print](https://github.com/VESM1VS/AFANGI/blob/main/python/2_Led_Print.py)
@@ -100,6 +103,8 @@ Kóðasýnidæmi:
 ---
 
 > driver CH340 rekilinn https://sparks.gogo.co.nz/ch340.html
+</details>
+
 
 <!--
 ## GAMALT - ARDUINO
