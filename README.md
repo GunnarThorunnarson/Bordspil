@@ -99,11 +99,12 @@ Borðspilið þarf að innihalda eftirfarandi íhluti (einn eða fleiri):
 6. [reed switch (segull)](https://github.com/VESM1VS/AFANGI/blob/main/python/ReedSwitch.py)
 7. [random](https://github.com/VESM1VS/AFANGI/blob/main/python/Random.py)
    
----
+
 
 > driver CH340 rekilinn https://sparks.gogo.co.nz/ch340.html
 </details>
 
+---
 
 <!--
 ## GAMALT - ARDUINO
