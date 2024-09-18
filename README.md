@@ -92,7 +92,7 @@ Borðspilið þarf að innihalda eftirfarandi íhluti (einn eða fleiri):
 <br>
 
 1. [Blink](https://github.com/VESM1VS/AFANGI/blob/main/python/1_Blink.py)
-2. [Print](https://github.com/VESM1VS/AFANGI/blob/main/python/2_Led_Print.py)
+2. [Blink og Print](https://github.com/VESM1VS/AFANGI/blob/main/python/2_BlinkogPrint.py)
 3. [Takki](https://github.com/VESM1VS/AFANGI/blob/main/python/3_Takkar.py)
 4. [Takki og LED](https://github.com/VESM1VS/AFANGI/blob/main/python/4_Takki_Led.py)
 5. [Hljóð](https://github.com/VESM1VS/AFANGI/blob/main/python/PassiveBuzzer.py)  og [Mario (lag)](https://github.com/VESM1VS/AFANGI/blob/main/python/PassiveBuzzerMario.py)
