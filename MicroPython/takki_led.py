@@ -1,3 +1,6 @@
+# Takki sem kveikir á led
+# Tengingar og kóði: https://wokwi.com/projects/409365625870394369
+
 from machine import Pin
 
 led = Pin(4, Pin.OUT)
