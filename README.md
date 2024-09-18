@@ -91,13 +91,13 @@ Borðspilið þarf að innihalda eftirfarandi íhluti (einn eða fleiri):
 <summary>Forritun - kóðadæmi</summary>
 <br>
 
-1. [Blink](https://github.com/VESM1VS/AFANGI/blob/main/python/1_Blink.py)
-2. [Blink og Print](https://github.com/VESM1VS/AFANGI/blob/main/python/2_BlinkogPrint.py)
-3. [Takki](https://github.com/VESM1VS/AFANGI/blob/main/python/3_Takkar.py)
-4. [Takki og LED](https://github.com/VESM1VS/AFANGI/blob/main/python/4_Takki_Led.py)
-5. [Hljóð](https://github.com/VESM1VS/AFANGI/blob/main/python/PassiveBuzzer.py)  og [Mario (lag)](https://github.com/VESM1VS/AFANGI/blob/main/python/PassiveBuzzerMario.py)
-6. [reed switch (segull)](https://github.com/VESM1VS/AFANGI/blob/main/python/ReedSwitch.py)
-7. [random](https://github.com/VESM1VS/AFANGI/blob/main/python/Random.py)
+1. [Blink](https://github.com/GunnarThorunnarson/Bordspil/blob/main/MicroPython/blink.py)
+2. [Blink og Print](https://github.com/GunnarThorunnarson/Bordspil/blob/main/MicroPython/led_blink_print.py)
+3. [Takki](https://github.com/GunnarThorunnarson/Bordspil/blob/main/MicroPython/takki.py)
+4. [Takki og LED](https://github.com/GunnarThorunnarson/Bordspil/blob/main/MicroPython/takki_led.py)
+5. [reed switch (segull)](https://github.com/GunnarThorunnarson/Bordspil/blob/main/MicroPython/reedswitch.py)
+6. [Hljóð](https://github.com/VESM1VS/AFANGI/blob/main/python/PassiveBuzzer.py)  og [Mario (lag)](https://github.com/VESM1VS/AFANGI/blob/main/python/PassiveBuzzerMario.py)
+8. [random](https://github.com/VESM1VS/AFANGI/blob/main/python/Random.py)
 
 :warning: **Ekki nota pinna; GPIO0, GPIO3, GPIO19, GPIO20, GPIO45, GPIO46.** :warning:
 
