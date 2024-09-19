@@ -95,10 +95,10 @@ Borðspilið þarf að innihalda eftirfarandi íhluti (einn eða fleiri):
 2. [Blink og Print](https://github.com/GunnarThorunnarson/Bordspil/blob/main/MicroPython/led_blink_print.py)
 3. [Takki](https://github.com/GunnarThorunnarson/Bordspil/blob/main/MicroPython/takki.py)
 4. [Takki og LED](https://github.com/GunnarThorunnarson/Bordspil/blob/main/MicroPython/takki_led.py)
-5. [reed switch (segull)](https://github.com/GunnarThorunnarson/Bordspil/blob/main/MicroPython/reedswitch.py)
+5. [Reed switch (segull)](https://github.com/GunnarThorunnarson/Bordspil/blob/main/MicroPython/reedswitch.py)
 6. [Hljóð](https://github.com/VESM1VS/AFANGI/blob/main/python/PassiveBuzzer.py)
-7. [Mario lag](https://github.com/VESM1VS/AFANGI/blob/main/python/PassiveBuzzerMario.py)
-8. [random](https://github.com/GunnarThorunnarson/Bordspil/blob/main/MicroPython/random.py)
+7. [Lag](https://github.com/GunnarThorunnarson/Bordspil/blob/main/MicroPython/buzzerMario.py#L26)
+8. [Random](https://github.com/GunnarThorunnarson/Bordspil/blob/main/MicroPython/random.py)
 
 :warning: **Ekki nota pinna; GPIO0, GPIO3, GPIO19, GPIO20, GPIO45, GPIO46.** :warning:
 
