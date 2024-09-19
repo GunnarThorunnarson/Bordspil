@@ -1,3 +1,6 @@
+# Sound and music
+# https://www.coderdojotc.org/micropython/sound/
+
 from machine import Pin, PWM            # PWM til að vinna með hliðrænt gildi (ekki bara 0 og 1)
 import time
 
@@ -9,15 +12,19 @@ passiveBuzzer = PWM(Pin(21))
 
 while True:
     if not button.value():            # ef ýtt er á takka
-        passiveBuzzer.duty(512)       # 0 til 1023.
+        passiveBuzzer.duty(512)       # to generate smooth sound waves (0 til 1023)
         passiveBuzzer.init()          # enable PWM pinna
+        
         passiveBuzzer.freq(100)       # fallið freq er notað til að vinna með tíðni, nótur eru t.d. frá 31 til 4978
         time.sleep_ms(100)
+        
         passiveBuzzer.freq(400)
         time.sleep_ms(100)
+        
         passiveBuzzer.freq(800)
         time.sleep_ms(100)
-        passiveBuzzer.duty(0)         # skrifar út 0V, slökkt
+        
+        passiveBuzzer.duty(0)         # skrifar út 0V, slökkva á hljóði
     else:
         passiveBuzzer.deinit()        # disable PWM pinna	
         
