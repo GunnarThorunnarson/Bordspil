@@ -1,5 +1,6 @@
 # kóði með Raspberry Pi (virkar á ESP32)
 # https://www.coderdojotc.org/micropython/sound/
+# https://techtotinker.com/2020/09/18/007-esp32-micropython-how-to-make-some-sound-with-micropython/
 
 from machine import Pin, PWM
 from utime import sleep
