@@ -97,7 +97,7 @@ Borðspilið þarf að innihalda eftirfarandi íhluti (einn eða fleiri):
 4. [Takki og LED](https://github.com/GunnarThorunnarson/Bordspil/blob/main/MicroPython/takki_led.py)
 5. [Reed switch (segull)](https://github.com/GunnarThorunnarson/Bordspil/blob/main/MicroPython/reedswitch.py)
 6. [Hljóð (Passive Buzzer)](https://github.com/GunnarThorunnarson/Bordspil/blob/main/MicroPython/PassiveBuzzer.py)
-7. [Lag (Passive Buzzer)](https://github.com/GunnarThorunnarson/Bordspil/blob/main/MicroPython/buzzerMario.py)
+7. [Lag (Passive Buzzer)](https://github.com/GunnarThorunnarson/Bordspil/blob/main/MicroPython/lag.py)
 8. [Random](https://github.com/GunnarThorunnarson/Bordspil/blob/main/MicroPython/random.py)
 
 :warning: **Ekki nota pinna; GPIO0, GPIO3, GPIO19, GPIO20, GPIO45, GPIO46.** :warning:
@@ -112,7 +112,6 @@ https://github.com/james1236/buzzer_music?tab=readme-ov-file
 
 <!--
 ## GAMALT - ARDUINO
-
 [Arduino nano](https://www.studiopieters.nl/arduino-nano-pinout/)
 ### Kóðadæmi:
 1. [Blink](https://learn.adafruit.com/adafruit-arduino-lesson-2-leds/blinking-the-led)
@@ -120,18 +119,8 @@ https://github.com/james1236/buzzer_music?tab=readme-ov-file
 1. [Buzzer](https://www.circuitbasics.com/how-to-use-active-and-passive-buzzers-on-the-arduino/#:~:text=Passive%20buzzers%20need%20a%20square,(pin%2C%20frequency%2C%20duration)%3B) og velja [lög](https://projecthub.arduino.cc/tmekinyan/playing-popular-songs-with-arduino-and-a-buzzer-546f4a)
 1. [reed switch](https://lastminuteengineers.com/reed-switch-arduino-tutorial/?utm_content=cmp-true)
 1. [Random](https://reference.arduino.cc/reference/en/language/functions/random-numbers/random/)
-
-
 #### Málfræði 
 - breytur, HIGH/LOW, OUTPUT/INPUT, int/long, if/else og == 
 - setup(), loop(), pinMode(), digitalWrite(), digitalRead(), analogRead(), delay(), Serial.begin(), Serial.println(), tone(), noTone, random(), randomSeed()
-
 > driver CH340 rekilinn https://sparks.gogo.co.nz/ch340.html
--->
-
-<!--
-Linkar
-- random.py  nota random fyrir tengi https://github.com/VESM1VS/AFANGI/blob/main/python/Random.py
-- passive buzzer lög https://github.com/VESM1VS/Kennarasvaedi/blob/master/Boardgame/PassiveBuzzerMario.py
-- passive buzzer tónar https://github.com/VESM1VS/Kennarasvaedi/blob/master/Boardgame/PassiveBuzzer.py
 -->
