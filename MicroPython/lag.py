@@ -28,13 +28,13 @@ def playtone(frequency):
     buzzer.freq(frequency)
 
 def playsong(mysong):
-    for i in range(len(mysong)):
-        if (mysong[i] == 0 ):
-            buzzer.duty_u16(0)
+    for i in range(len(mysong)): # vinnum með eitt í einu úr mario listanum, notum i sem vísun í listanum. i er fyrst 0 sem vísar í fyrsta sætið í lista og svo í hækkandi röð þar til listinn er búinn. 
+        if (mysong[i] == 0 ):    # t.d. mysong[2] vísar í "0" 
+            buzzer.duty_u16(0)   # ekki hljóð 
         else:
-            playtone(tones[mysong[i]])
+            playtone(tones[mysong[i]])  # mysong[0] vísra í fyrstu nótuna þ.e. "E7". 
         sleep(0.15)
-    buzzer.duty_u16(0)
+    buzzer.duty_u16(0)  # slökkva á laginu
 
 # play song  
 playsong(mario)
