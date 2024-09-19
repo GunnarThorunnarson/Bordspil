@@ -12,10 +12,10 @@ passiveBuzzer = PWM(Pin(21))
 
 while True:
     if not button.value():            # ef ýtt er á takka
-        passiveBuzzer.duty(512)       # to generate smooth sound waves (0 til 1023)
         passiveBuzzer.init()          # enable PWM pinna
+        passiveBuzzer.duty(512)       # to generate smooth sound waves (0 til 1023)
         
-        passiveBuzzer.freq(100)       # fallið freq er notað til að vinna með tíðni, nótur eru t.d. frá 31 til 4978
+        passiveBuzzer.freq(100)       # freq er notað til að vinna með tíðni, nótur eru t.d. frá 31 til 4978 sjá neðar.
         time.sleep_ms(100)
         
         passiveBuzzer.freq(400)
