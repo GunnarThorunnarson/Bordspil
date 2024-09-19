@@ -96,8 +96,8 @@ Borðspilið þarf að innihalda eftirfarandi íhluti (einn eða fleiri):
 3. [Takki](https://github.com/GunnarThorunnarson/Bordspil/blob/main/MicroPython/takki.py)
 4. [Takki og LED](https://github.com/GunnarThorunnarson/Bordspil/blob/main/MicroPython/takki_led.py)
 5. [Reed switch (segull)](https://github.com/GunnarThorunnarson/Bordspil/blob/main/MicroPython/reedswitch.py)
-6. [Hljóð](https://github.com/VESM1VS/AFANGI/blob/main/python/PassiveBuzzer.py)
-7. [Lag](https://github.com/GunnarThorunnarson/Bordspil/blob/main/MicroPython/buzzerMario.py#L26)
+6. [Hljóð (Passive Buzzer)](https://github.com/GunnarThorunnarson/Bordspil/blob/main/MicroPython/PassiveBuzzer.py)
+7. [Lag (Passive Buzzer)](https://github.com/GunnarThorunnarson/Bordspil/blob/main/MicroPython/buzzerMario.py)
 8. [Random](https://github.com/GunnarThorunnarson/Bordspil/blob/main/MicroPython/random.py)
 
 :warning: **Ekki nota pinna; GPIO0, GPIO3, GPIO19, GPIO20, GPIO45, GPIO46.** :warning:
