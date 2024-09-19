@@ -102,6 +102,10 @@ Borðspilið þarf að innihalda eftirfarandi íhluti (einn eða fleiri):
 
 :warning: **Ekki nota pinna; GPIO0, GPIO3, GPIO19, GPIO20, GPIO45, GPIO46.** :warning:
 
+<!--
+https://github.com/james1236/buzzer_music?tab=readme-ov-file
+-->
+
 </details>
 
 ---
