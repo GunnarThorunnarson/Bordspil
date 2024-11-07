@@ -92,7 +92,7 @@ Borðspilið þarf að innihalda eftirfarandi íhluti (einn eða fleiri):
 <br>
 
 1. [Blink](https://github.com/GunnarThorunnarson/Bordspil/blob/main/MicroPython/blink.py)
-2. [Blink og Print]() _vantar_
+2. [Print](https://github.com/GunnarThorunnarson/Bordspil/blob/main/MicroPython/print.py)
 3. [Takki](https://github.com/GunnarThorunnarson/Bordspil/blob/main/MicroPython/takki.py)
 4. [Takki og LED](https://github.com/GunnarThorunnarson/Bordspil/blob/main/MicroPython/takki_led.py)
 5. [Reed switch (segull)](https://github.com/GunnarThorunnarson/Bordspil/blob/main/MicroPython/reedswitch.py)
