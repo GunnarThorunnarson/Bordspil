@@ -3,14 +3,13 @@
 
 Borðspilið þarf að innihalda eftirfarandi íhluti (einn eða fleiri):
 
-- [ ] Leds
-- [ ] arcade takka
-- [ ] buzzer/hátalara 
-- [ ] reed switch
-- [ ] on/off takki og batterí.
+- [ ] leds eða NeoPixel hringur
+- [ ] takki (arcade)
+- [ ] hátalari
+- [ ] reed switch (segull)
 
 
-> [Boardgame templates](https://www.pinterest.com.mx/pin/595741856946792806/) og [rafræn borðspil](https://boardgamegeek.com/boardgamecategory/1072/electronic) fyrir hugmyndavinnu.
+> [rafræn borðspil](https://boardgamegeek.com/boardgamecategory/1072/electronic) fyrir hugmyndavinnu.
 
 <!--
 - [Pyramids secret](https://projecthub.arduino.cc/marcelomaximiano/fac9edcd-e76f-40c8-a4a4-c867072599c4)
@@ -24,14 +23,16 @@ Borðspilið þarf að innihalda eftirfarandi íhluti (einn eða fleiri):
 <summary>Hönnun - leiðbeiningar</summary>
 <br>
 
-1. Notaðu [Inkscape](https://github.com/GunnarThorunnarson/Bordspil/blob/main/Inkscape.md) til að búa til lokið fyrir borðspilið (svartur litur er notaður fyrir laserskurð).
-1. Notaðu þenna [lok/topp](https://github.com/GunnarThorunnarson/Bordspil/blob/main/bordspil_lok_V24.svg) template fyrir borðspilið.
+1. Notaðu [Inkscape](https://github.com/GunnarThorunnarson/Bordspil/blob/main/Inkscape.md) forrit til að hanna borðspilið (svartur litur er notaður fyrir laserskurð).
+1. Notaðu [lok/topp](https://github.com/GunnarThorunnarson/Bordspil/blob/main/bordspil_lok_V24.svg) template fyrir borðspilið.
 1. Mál á götum:
    * Led (5 mm): Gat: 5 mm þvermál
-   * Arcade takki (stór 100 mm): Gat: 94 mm þvermál   
-   * Arcade takki (mið 65 mm): Gat 25 mm þvermál eða 58mm þvermál.
+   * Arcade takki (stór 100 mm): Gat: 25mm þvermál (eða 94 mm þvermál).   
+   * Arcade takki (mið 65 mm): Gat 25 mm þvermál (eða 58mm þvermál).
    * Arcade takki (lítill 28 mm): Gat: 25 mm þvermál
 1. Skrifið spilaleiðbeiningar á toppinn.
+
+> [Boardgame templates](https://www.pinterest.com.mx/pin/595741856946792806/)
 
 </details>
 
