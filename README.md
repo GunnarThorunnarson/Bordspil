@@ -18,7 +18,7 @@ Borðspilið þarf að innihalda eftirfarandi íhluti (einn eða fleiri):
 
 ---
 
-### Hönnun (tími 1)
+### Hönnun
 <details>
 <summary>Hönnun - leiðbeiningar</summary>
 <br>
