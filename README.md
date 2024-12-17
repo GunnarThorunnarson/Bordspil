@@ -87,8 +87,6 @@ https://github.com/james1236/buzzer_music?tab=readme-ov-file
 1. Passa snúrur og umgengni í kring.
 1. Mundu að slökkva á lóðunartækinu í lok tímans.
 1. Muna að þvo vel hendur eftir að hafa lóðað, blýagnir á höndum.
-
-#### Lóðun
 1. Nota rakan svamp til að hreinsa odd í byrjun og í lokin.
 1. Hreinsaðu odd í hvert sinn sem þú lóðar.
 1. 315 gráður Celsíur fyrir snögga lóðun á punktum, 60/40 tin (60% tin, 40% blý)
@@ -98,26 +96,11 @@ https://github.com/james1236/buzzer_music?tab=readme-ov-file
 
 ---
 
-
 #### Tutorial og sýnidæmi
 1. [Soldering, setup](https://www.instructables.com/lesson/Soldering-1/) 
 1. [Algeng mistök](https://learn.adafruit.com/adafruit-guide-excellent-soldering/common-problems)
 1. [Að lóða og aflóða](https://learn.adafruit.com/collins-lab-soldering) (myndband)
 1. [How to solder header pins](https://youtu.be/8Z-2wPWGnqE?t=124) (myndband)
-
----
-
-#### Vírar
-* [Að vinna með víra](https://learn.sparkfun.com/tutorials/working-with-wire)
-* [Að lóða vír saman](https://www.youtube.com/watch?v=Zu3TYBs65FM) (myndband)
-* [Splicing (Y)](https://youtu.be/eI3fxTH6f6I?t=245) (mynband)
-
----
-
-#### Æfingar
-
-1. Klippa niður jumpers og lóða í veroboard (prófa líka fjölþætta víra).
-1. lóða víra saman (Y splicing) og nota herpihólk.
 
 </details>
 
