@@ -50,9 +50,10 @@ Borðspilið þarf að innihalda eftirfarandi íhluti (einn eða fleiri):
 4. [Takki og LED](https://github.com/GunnarThorunnarson/Bordspil/blob/main/MicroPython/takki_led.py)
 5. [Reed switch (segull)](https://github.com/GunnarThorunnarson/Bordspil/blob/main/MicroPython/reedswitch.py)
 6. [Hljóð (Passive Buzzer)](https://github.com/GunnarThorunnarson/Bordspil/blob/main/MicroPython/PassiveBuzzer.py)
-7. [Lag (Passive Buzzer)](https://github.com/GunnarThorunnarson/Bordspil/blob/main/MicroPython/lag.py)
-8. [Random](https://github.com/GunnarThorunnarson/Bordspil/blob/main/MicroPython/random.py)
-9. [NeoPixel hringur](https://github.com/GunnarThorunnarson/Bordspil/blob/main/MicroPython/NeoPixel.py)
+7. [Hljóð og takki](https://github.com/GunnarThorunnarson/Bordspil/blob/main/MicroPython/Buzzer_takki.py)
+8. [Lag (Passive Buzzer)](https://github.com/GunnarThorunnarson/Bordspil/blob/main/MicroPython/lag.py)
+9. [Random](https://github.com/GunnarThorunnarson/Bordspil/blob/main/MicroPython/random.py)
+10. [NeoPixel hringur](https://github.com/GunnarThorunnarson/Bordspil/blob/main/MicroPython/NeoPixel.py)
     
 :warning: **Ekki nota pinna; GPIO0, GPIO3, GPIO19, GPIO20, GPIO45, GPIO46.** :warning:
 
