@@ -44,8 +44,8 @@ Borðspilið þarf að innihalda eftirfarandi íhluti (einn eða fleiri):
 <summary>Forritun - kóðadæmi</summary>
 <br>
 
-1. [LED: Blink](https://github.com/GunnarThorunnarson/Bordspil/blob/main/MicroPython/blink.py)
-2. [Print](https://github.com/GunnarThorunnarson/Bordspil/blob/main/MicroPython/print.py)
+1. [Innbyggt LED - blikkar](https://github.com/GunnarThorunnarson/Bordspil/blob/main/MicroPython/blink.py)
+2. [LED pera og Print](https://github.com/GunnarThorunnarson/Bordspil/blob/main/MicroPython/print.py)
 3. [Takki](https://github.com/GunnarThorunnarson/Bordspil/blob/main/MicroPython/takki.py)
 4. [Takki og LED](https://github.com/GunnarThorunnarson/Bordspil/blob/main/MicroPython/takki_led.py)
 5. [Reed switch (segull)](https://github.com/GunnarThorunnarson/Bordspil/blob/main/MicroPython/reedswitch.py)
@@ -53,7 +53,7 @@ Borðspilið þarf að innihalda eftirfarandi íhluti (einn eða fleiri):
 7. [Hljóð og takki](https://github.com/GunnarThorunnarson/Bordspil/blob/main/MicroPython/Buzzer_takki.py)
 8. [Lag (Passive Buzzer)](https://github.com/GunnarThorunnarson/Bordspil/blob/main/MicroPython/lag.py)
 9. [Random](https://github.com/GunnarThorunnarson/Bordspil/blob/main/MicroPython/random.py)
-10. [NeoPixel hringur](https://github.com/GunnarThorunnarson/Bordspil/blob/main/MicroPython/NeoPixel.py)
+10. [NeoPixel hringur og LED strip](https://github.com/GunnarThorunnarson/Bordspil/blob/main/MicroPython/NeoPixel.py)
     
 :warning: **Ekki nota pinna; GPIO0, GPIO3, GPIO19, GPIO20, GPIO45, GPIO46.** :warning:
 
