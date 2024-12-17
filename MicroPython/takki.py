@@ -5,7 +5,7 @@ takki = Pin(2, Pin.IN, Pin.PULL_UP)   # Segjum að pinninn sé inntakspinni, ví
 
 while True:
  
-    print(ekki búið að ýta á takka) 		
+    print("ekki búið að ýta á takka") 		
     
     if takki.value() == 0:      # ef ýtt er á takka, ekki 1     
         print(takki.value())    # skrifar út 0 í Shell
