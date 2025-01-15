@@ -12,7 +12,7 @@ button = Pin(2,Pin.IN,Pin.PULL_UP)   	# takki tengist pinna 14 og GND
 passiveBuzzer = PWM(Pin(21))          
 
 while True:
-    if not button.value():            # ef ýtt er á takka
+    if not button.value():            # ef ýtt er á takka (þ.e. ef ekki 1)
         passiveBuzzer.init()          # enable PWM pinna
         passiveBuzzer.duty(512)       # to generate smooth sound waves (0 til 1023)
         
@@ -27,7 +27,7 @@ while True:
         
         passiveBuzzer.duty(0)         # skrifar út 0V, slökkva á hljóði
     else:
-        passiveBuzzer.deinit()        # disable PWM pinna	
+        passiveBuzzer.deinit()        # disable PWM mode á pinna	
         
         
     
