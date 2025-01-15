@@ -18,7 +18,9 @@ Borðspilið þarf að innihalda eftirfarandi íhluti:
 - [ ] reed switch (segull)
 - [ ] hátalari 
 
+<!--
 > [rafræn borðspil](https://boardgamegeek.com/boardgamecategory/1072/electronic) fyrir hugmyndavinnu.
+-->
 
 ---
 
@@ -26,17 +28,17 @@ Borðspilið þarf að innihalda eftirfarandi íhluti:
 <details>
 <summary>Hönnun - leiðbeiningar</summary>
 <br>
+  
+Við ætlum að nota [Inkscape](https://github.com/GunnarThorunnarson/Bordspil/blob/main/Inkscape.md) forritð til að teikna og hanna borðspilið.
 
-1. Notaðu [Inkscape](https://github.com/GunnarThorunnarson/Bordspil/blob/main/Inkscape.md) forrit til að hanna borðspilið (svartur litur er notaður fyrir laserskurð).
-1. Notaðu [lok/topp](https://github.com/GunnarThorunnarson/Bordspil/blob/main/bordspil_lok_V24.svg) template fyrir borðspilið.
-1. Mál á götum:
+1. Náðu í [template](https://github.com/GunnarThorunnarson/Bordspil/blob/main/bordspil_lok_V24.svg) og opnaðu það í Inkscape. 
+1. [Boardgame templates](https://mx.pinterest.com/shopping/board-game-template/917152777754/) hugmyndir, líka hægt að gera frá grunni og sækja myndir af netinu.
+1. Mál á götum, svartur litur er notaður fyrir laserskurð (skera í gegn):
    * Led (5 mm): Gat: 5 mm þvermál
    * Arcade takki (stór 100 mm): Gat: 25mm þvermál (eða 94 mm þvermál).   
    * Arcade takki (mið 65 mm): Gat 25 mm þvermál (eða 58mm þvermál).
    * Arcade takki (lítill 28 mm): Gat: 25 mm þvermál
 1. Skrifið spilaleiðbeiningar á toppinn.
-
-> [Boardgame templates](https://www.pinterest.com.mx/pin/595741856946792806/)
 
 </details>
 
