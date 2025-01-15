@@ -57,7 +57,7 @@ Við ætlum að nota [Inkscape](https://github.com/GunnarThorunnarson/Bordspil/b
 1. [Hljóð (Passive Buzzer)](https://github.com/GunnarThorunnarson/Bordspil/blob/main/MicroPython/PassiveBuzzer.py)  og [nótur og tíðni](https://muted.io/note-frequencies/)
 1. [Hljóð og takki](https://github.com/GunnarThorunnarson/Bordspil/blob/main/MicroPython/Buzzer_takki.py)
 1. [Random](https://github.com/GunnarThorunnarson/Bordspil/blob/main/MicroPython/random.py)
-1. [NeoPixel hringur (LED strip)](https://github.com/GunnarThorunnarson/Bordspil/blob/main/MicroPython/NeoPixel.py)
+1. [NeoPixel hringur](https://github.com/GunnarThorunnarson/Bordspil/blob/main/MicroPython/NeoPixel.py) _og LED strip_
     
 :warning: **Ekki nota pinna; GPIO0, GPIO3, GPIO19, GPIO20, GPIO45, GPIO46.** :warning:
 
