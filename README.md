@@ -49,7 +49,7 @@ Borðspilið þarf að innihalda eftirfarandi íhluti:
 <br>
 
 1. [Innbyggt LED (blink)](https://github.com/GunnarThorunnarson/Bordspil/blob/main/MicroPython/blink.py)
-2. [LED pera](https://github.com/GunnarThorunnarson/Bordspil/blob/main/MicroPython/print.py)
+2. [LED pera og brauðbretti](https://github.com/GunnarThorunnarson/Bordspil/blob/main/MicroPython/led_breadboard.py)
 3. [Takki](https://github.com/GunnarThorunnarson/Bordspil/blob/main/MicroPython/takki.py)
 4. [Takki og LED](https://github.com/GunnarThorunnarson/Bordspil/blob/main/MicroPython/takki_led.py)
 5. [Reed switch (segull)](https://github.com/GunnarThorunnarson/Bordspil/blob/main/MicroPython/reedswitch.py)
