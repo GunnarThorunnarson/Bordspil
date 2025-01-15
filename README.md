@@ -51,14 +51,13 @@ Við ætlum að nota [Inkscape](https://github.com/GunnarThorunnarson/Bordspil/b
 <br>
 
 1. [Innbyggt LED (blink)](https://github.com/GunnarThorunnarson/Bordspil/blob/main/MicroPython/blink.py)
-2. [LED pera og brauðbretti](https://github.com/GunnarThorunnarson/Bordspil/blob/main/MicroPython/led_breadboard.py)
-3. [Takki](https://github.com/GunnarThorunnarson/Bordspil/blob/main/MicroPython/takki.py)
-4. [Takki og LED](https://github.com/GunnarThorunnarson/Bordspil/blob/main/MicroPython/takki_led.py)
-5. [Reed switch (segull)](https://github.com/GunnarThorunnarson/Bordspil/blob/main/MicroPython/reedswitch.py)
-6. [Hljóð (Passive Buzzer)](https://github.com/GunnarThorunnarson/Bordspil/blob/main/MicroPython/PassiveBuzzer.py)  og [nótur og tíðni](https://muted.io/note-frequencies/)
-7. [Hljóð og takki](https://github.com/GunnarThorunnarson/Bordspil/blob/main/MicroPython/Buzzer_takki.py)
-8. [Random](https://github.com/GunnarThorunnarson/Bordspil/blob/main/MicroPython/random.py)
-9. [NeoPixel hringur (LED strip)](https://github.com/GunnarThorunnarson/Bordspil/blob/main/MicroPython/NeoPixel.py)
+1. [LED pera og brauðbretti](https://github.com/GunnarThorunnarson/Bordspil/blob/main/MicroPython/led_breadboard.py)
+1. [Takki og LED](https://github.com/GunnarThorunnarson/Bordspil/blob/main/MicroPython/takki_led.py)
+1. [Reed switch (segull)](https://github.com/GunnarThorunnarson/Bordspil/blob/main/MicroPython/reedswitch.py)
+1. [Hljóð (Passive Buzzer)](https://github.com/GunnarThorunnarson/Bordspil/blob/main/MicroPython/PassiveBuzzer.py)  og [nótur og tíðni](https://muted.io/note-frequencies/)
+1. [Hljóð og takki](https://github.com/GunnarThorunnarson/Bordspil/blob/main/MicroPython/Buzzer_takki.py)
+1. [Random](https://github.com/GunnarThorunnarson/Bordspil/blob/main/MicroPython/random.py)
+1. [NeoPixel hringur (LED strip)](https://github.com/GunnarThorunnarson/Bordspil/blob/main/MicroPython/NeoPixel.py)
     
 :warning: **Ekki nota pinna; GPIO0, GPIO3, GPIO19, GPIO20, GPIO45, GPIO46.** :warning:
 
