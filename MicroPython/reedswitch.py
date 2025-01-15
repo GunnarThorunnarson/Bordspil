@@ -1,4 +1,4 @@
-# ReedSwitch sem virkar með segul
+# ReedSwitch sem virkar með segul (virkar eins og takki)
 # Passa að beygla ekki ReedSwitch vírana (brotna auðveldlega)
 from machine import Pin
 from time import sleep_ms
