@@ -32,7 +32,7 @@ Borðspilið þarf að innihalda eftirfarandi íhluti:
 Við ætlum að nota [Inkscape](https://github.com/GunnarThorunnarson/Bordspil/blob/main/Inkscape.md) forritð til að teikna og hanna borðspilið.
 
 1. Náðu í [template](https://github.com/GunnarThorunnarson/Bordspil/blob/main/bordspil_lok_V24.svg) og opnaðu það í Inkscape. 
-1. [Boardgame templates](https://mx.pinterest.com/shopping/board-game-template/917152777754/) hugmyndir, líka hægt að gera frá grunni og sækja myndir af netinu.
+1. Leitaðu á WWW Til að fá hugmyndir fyrir borðspil _Board game template_. 
 1. Mál á götum, svartur litur er notaður fyrir laserskurð (skera í gegn):
    * Led (5 mm): Gat: 5 mm þvermál
    * Arcade takki (stór 100 mm): Gat: 25mm þvermál (eða 94 mm þvermál).   
