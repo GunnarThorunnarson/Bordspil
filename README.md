@@ -31,7 +31,7 @@ Borðspilið þarf að innihalda eftirfarandi íhluti:
   
 Við ætlum að nota [Inkscape](https://github.com/GunnarThorunnarson/Bordspil/blob/main/Inkscape.md) forritð til að teikna og hanna borðspilið.
 
-1. Náðu í [template](https://github.com/GunnarThorunnarson/Bordspil/blob/main/bordspil_lok_V24.svg) og opnaðu það í Inkscape. 
+1. Náðu í [stórt lok](https://github.com/GunnarThorunnarson/Bordspil/blob/main/bordspil_lok_V24.svg) eða [lítið lok](https://github.com/GunnarThorunnarson/Bordspil/blob/main/Bordspil_lok(235x400).svg) og opnaðu það í Inkscape. 
 1. Leitaðu á WWW Til að fá hugmyndir fyrir borðspil _Board game template_. 
 1. Mál á götum, svartur litur er notaður fyrir laserskurð (skera í gegn):
    * Led (5 mm): Gat: 5 mm þvermál
