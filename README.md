@@ -1,11 +1,12 @@
 <!--
 Punktar:
 - 3 dagar (2 dagar of lítið og langir dagar)
+- Hafa einfalt inkscape template tilbúið með grunn, breyta bara lítið, fá template fyrir minnstu hringina. Skýrari mörk t.d. snake spilið flækjustig í lágmarki.
 - Gera kóðatemplate fyrir spil
-- einfalda kóðadæmin enn frekar og fækka.
+- einfalda kóðadæmin enn frekar og fækka (bara litlu hringina).
 - skoða tónlist sem virkar með pazzive buzzer, virðist ekki ráða við alla tóna.
-- halda lóðun í lágmarki, nota frekar led strip og neopixel hringi.
-- of langur tími í að hanna spilið, hafa skýrari mörk og hafa flækustigið í lágmarki.
+- halda lóðun í lágmarki, nota frekar led strip eða neopixel hringi.
+- skoða betur á cut path 
 -->
 
 ## Borðspil 
