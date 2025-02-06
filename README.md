@@ -55,7 +55,6 @@ Við ætlum að nota [Inkscape](https://github.com/GunnarThorunnarson/Bordspil/b
 1. [Takki og LED](https://github.com/GunnarThorunnarson/Bordspil/blob/main/MicroPython/takki_led.py)
 1. [Reed switch (segull)](https://github.com/GunnarThorunnarson/Bordspil/blob/main/MicroPython/reedswitch.py)
 1. [Hljóð (Passive Buzzer)](https://github.com/GunnarThorunnarson/Bordspil/blob/main/MicroPython/PassiveBuzzer.py)  og [nótur og tíðni](https://muted.io/note-frequencies/)
-1. [Hljóð og takki](https://github.com/GunnarThorunnarson/Bordspil/blob/main/MicroPython/Buzzer_takki.py)
 1. [Random](https://github.com/GunnarThorunnarson/Bordspil/blob/main/MicroPython/random.py)
 1. [NeoPixel hringur](https://github.com/GunnarThorunnarson/Bordspil/blob/main/MicroPython/NeoPixel.py) _og LED strip_
     
