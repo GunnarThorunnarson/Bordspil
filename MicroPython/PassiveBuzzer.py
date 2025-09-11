@@ -1,3 +1,4 @@
+# https://wokwi.com/projects/441803742575803393
 from machine import Pin, PWM            # PWM til að vinna með hliðrænt gildi (ekki bara 0 og 1)
 import time
 
