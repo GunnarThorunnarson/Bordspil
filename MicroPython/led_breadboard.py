@@ -1,4 +1,4 @@
-# Blátt LED blikkar með 2 sek. millibili og skrifar út 0 og 1 á víxl í Shell í Thonny
+# Rautt LED blikkar með 2 sek. millibili og skrifar út 0 og 1 á víxl í Shell í Thonny
 # Tengingar og kóði: https://wokwi.com/projects/420148360896510977
 
 from machine import Pin    # Notum Pin úr machine kóðasafninu til að skilgreina pinnana á ESP. 
