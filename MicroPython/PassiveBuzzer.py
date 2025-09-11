@@ -1,6 +1,6 @@
-# https://wokwi.com/projects/441803742575803393
 from machine import Pin, PWM            # PWM til að vinna með hliðrænt gildi (ekki bara 0 og 1)
 import time
+# https://wokwi.com/projects/441803742575803393
 
 # Passive buzzer er með grænt circuit á botninum. 
 passiveBuzzer = PWM(Pin(21))          
