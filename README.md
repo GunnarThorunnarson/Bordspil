@@ -30,7 +30,7 @@ Borðspilið þarf að innihalda eftirfarandi íhluti:
 <summary>Hönnun - leiðbeiningar</summary>
 <br>
   
-Við ætlum að nota [Inkscape](https://github.com/GunnarThorunnarson/Bordspil/blob/main/Inkscape.md) forritð til að teikna og hanna borðspilið.
+Við ætlum að nota [Inkscape](https://github.com/GunnarThorunnarson/Bordspil/blob/main/Inkscape.md) forritið til að teikna og hanna borðspilið.
 
 1. Náðu í [lok](https://github.com/GunnarThorunnarson/Bordspil/blob/main/Bordspil_lok(235x400).svg) á spilið og opnaðu það í Inkscape. 
 1. Mál á götum, svartur litur er notaður fyrir laserskurð (skera í gegn):
