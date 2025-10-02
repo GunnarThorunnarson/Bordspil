@@ -1,0 +1,1 @@
+### Gagnleg template fyrir borðspil
