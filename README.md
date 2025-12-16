@@ -9,8 +9,18 @@ Punktar:
 - skoða betur á cut path 
 -->
 
-## Borðspil 
-Í þessu verkefni ætlið þið að hanna, forrita og smíða frá grunni rafrænt borðspil. Spilið má einnig innihalda spilastokk, teninga, leikmenn og fleira sem ykkur dettur í hug. Hugið vel að leikjaspilun og reglum. Þegar þið hafið lokið við verkefnið ættuð þið að hafa fullbúið rafrænt borðspil í höndunum sem er tilbúið að fara í verslanir.
+## Rafrænt spil
+Í þessu verkefni ætlið þið að hanna, forrita og smíða frá grunni rafrænt borðspil. 
+
+Spilið þarf að innihalda eftirfarandi íhluti:
+
+- [ ] ESP32-S3
+- [ ] brauðbretti og vírar
+- [ ] takki (arcade)
+- [ ] hátalari (passive buzzer) 
+
+<!--
+Spilið má einnig innihalda spilastokk, teninga, leikmenn og fleira sem ykkur dettur í hug. Hugið vel að leikjaspilun og reglum. Þegar þið hafið lokið við verkefnið ættuð þið að hafa fullbúið rafrænt borðspil í höndunum sem er tilbúið að fara í verslanir.
 
 Borðspilið þarf að innihalda eftirfarandi íhluti:
 
@@ -19,37 +29,11 @@ Borðspilið þarf að innihalda eftirfarandi íhluti:
 - [ ] reed switch (segull)
 - [ ] hátalari 
 
-<!--
-> [rafræn borðspil](https://boardgamegeek.com/boardgamecategory/1072/electronic) fyrir hugmyndavinnu.
 -->
 
 ---
 
-### Hönnun
-<details>
-<summary>Hönnun - leiðbeiningar</summary>
-<br>
-  
-Við ætlum að nota [Inkscape](https://github.com/GunnarThorunnarson/Bordspil/blob/main/Inkscape.md) forritið til að teikna og hanna borðspilið.
-
-1. Náðu í [lok](https://github.com/GunnarThorunnarson/Bordspil/blob/main/Bordspil_lok(235x400).svg) á spilið og opnaðu það í Inkscape. 
-1. Mál á götum, svartur litur er notaður fyrir laserskurð (skera í gegn):
-   * Led (5 mm): Gat: 5 mm þvermál
-   * Arcade takki (stór 100 mm): Gat: 25mm þvermál (eða 94 mm þvermál).   
-   * Arcade takki (mið 65 mm): Gat 25 mm þvermál (eða 58mm þvermál).
-   * Arcade takki (lítill 28 mm): Gat: 25 mm þvermál
-1. Skrifið spilaleiðbeiningar á toppinn.
-
-</details>
-
-<!--
-[stórt lok](https://github.com/GunnarThorunnarson/Bordspil/blob/main/bordspil_lok_V24.svg) eða [lítið lok](https://github.com/GunnarThorunnarson/Bordspil/blob/main/Bordspil_lok(235x400).svg) 
--->
-
----
-
-
-### Forritun
+### 1. Forritun
 <details>
 <summary>Forritun - kóðadæmi</summary>
 <br>
@@ -72,6 +56,38 @@ https://github.com/james1236/buzzer_music?tab=readme-ov-file
 
 ---
 
+### 2. Hönnun og laserskurður
+<details>
+<summary>Hönnun - leiðbeiningar</summary>
+<br>
+  
+Við ætlum að nota [Inkscape](https://github.com/GunnarThorunnarson/Bordspil/blob/main/Inkscape.md) forritið til að teikna og hanna spilið.
+
+1. Náðu í [lok]() á spilið og opnaðu það í Inkscape (með lokun).
+1. Mál á götum, svartur litur er notaður fyrir laserskurð (skera í gegn):
+   * Arcade takki: Gat/hringur: 25mm þvermál
+   * on/off takki: Gat/rétthyrningur: 
+
+<!--
+1. Náðu í [lok](https://github.com/GunnarThorunnarson/Bordspil/blob/main/Bordspil_lok(235x400).svg) á spilið og opnaðu það í Inkscape. 
+1. Mál á götum, svartur litur er notaður fyrir laserskurð (skera í gegn):
+   * Led (5 mm): Gat: 5 mm þvermál
+   * Arcade takki (stór 100 mm): Gat: 25mm þvermál (eða 94 mm þvermál).   
+   * Arcade takki (mið 65 mm): Gat 25 mm þvermál (eða 58mm þvermál).
+   * Arcade takki (lítill 28 mm): Gat: 25 mm þvermál
+1. Skrifið spilaleiðbeiningar á toppinn.
+-->
+
+</details>
+
+<!--
+[stórt lok](https://github.com/GunnarThorunnarson/Bordspil/blob/main/bordspil_lok_V24.svg) eða [lítið lok](https://github.com/GunnarThorunnarson/Bordspil/blob/main/Bordspil_lok(235x400).svg) 
+-->
+
+---
+
+<!-- 
+
 ### Lóðun 
 <details>
 <summary>Lóðun - leiðbeiningar</summary>
@@ -92,6 +108,7 @@ https://github.com/james1236/buzzer_music?tab=readme-ov-file
 1. Ef of mikill hiti eða of lengi þá hætta á að bræða rásir (e. circuits).
 1. Ef of lítill hiti þá færðu kalda lóðningu (e. cold solder joint) sem lítur út einsog dropi.
 
+
 ---
 
 #### Tutorial og sýnidæmi
@@ -101,6 +118,8 @@ https://github.com/james1236/buzzer_music?tab=readme-ov-file
 1. [How to solder header pins](https://youtu.be/8Z-2wPWGnqE?t=124) (myndband)
 
 </details>
+
+-->
 
 <!--
 ## GAMALT - ARDUINO
