@@ -10,7 +10,7 @@ Punktar:
 -->
 
 ## Rafrænt spil
-Í þessu verkefni ætlið þið að hanna, forrita og smíða frá grunni rafrænt borðspil. 
+Í þessu verkefni ætlið þið að hanna, forrita og tengja frá grunni rafrænt spil. 
 
 Spilið þarf að innihalda eftirfarandi íhluti:
 
