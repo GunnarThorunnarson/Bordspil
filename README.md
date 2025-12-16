@@ -67,7 +67,7 @@ https://github.com/james1236/buzzer_music?tab=readme-ov-file
 <summary>Hönnun - leiðbeiningar</summary>
 <br>
   
-Við ætlum að nota [Inkscape](https://github.com/GunnarThorunnarson/Bordspil/blob/main/Inkscape.md) forritið til að teikna og hanna spilið.
+Við ætlum að nota [Inkscape](https://github.com/GunnarThorunnarson/Bordspil/blob/main/Inkscape.md) forritið til að teikna og hanna spilið. Notaðu rauðan lit fyrir texta.
 
 1. Náðu í [lok]() á spilið og opnaðu það í Inkscape (með lokun).
 1. Mál á götum, svartur litur er notaður fyrir laserskurð (skera í gegn):
