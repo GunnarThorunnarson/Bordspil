@@ -67,11 +67,11 @@ https://github.com/james1236/buzzer_music?tab=readme-ov-file
 <summary>Hönnun - leiðbeiningar</summary>
 <br>
   
-Við ætlum að nota [Inkscape](https://github.com/GunnarThorunnarson/Bordspil/blob/main/Inkscape.md) forritið til að teikna og hanna spilið. Notaðu rauðan lit fyrir texta.
+Við ætlum að nota [Inkscape](https://github.com/GunnarThorunnarson/Bordspil/blob/main/Inkscape.md) forritið til að teikna og hanna spilið. 
 
-1. Náðu í [boxið]() á spilið og opnaðu það í Inkscape.
-1. Hannaðu boxið. Notaðu rauðan lit fyrir texta og myndir.
-1. Svartur litur er notaður fyrir laserskurð (skera í gegn).
+1. Náðu í [boxið](https://github.com/GunnarThorunnarson/Bordspil/blob/main/Kassi.svg) og opnaðu það svo í Inkscape.
+1. Skreyttu boxið. Notaðu rauðan lit fyrir texta og myndir.
+1. Svartur litur er notaður fyrir laserskurð (skera í gegn), leds þarf 4mm í þvermál.
 
 <!-- Arcade takki: Gat/hringur: 25mm þvermál. -->
 <!--
