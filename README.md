@@ -69,11 +69,11 @@ https://github.com/james1236/buzzer_music?tab=readme-ov-file
   
 Við ætlum að nota [Inkscape](https://github.com/GunnarThorunnarson/Bordspil/blob/main/Inkscape.md) forritið til að teikna og hanna spilið. Notaðu rauðan lit fyrir texta.
 
-1. Náðu í [lok]() á spilið og opnaðu það í Inkscape (með lokun).
-1. Mál á götum, svartur litur er notaður fyrir laserskurð (skera í gegn):
-   * Arcade takki: Gat/hringur: 25mm þvermál
-   * on/off takki: Gat/rétthyrningur: 
+1. Náðu í [boxið]() á spilið og opnaðu það í Inkscape.
+1. Hannaðu boxið. Notaðu rauðan lit fyrir texta og myndir.
+1. Svartur litur er notaður fyrir laserskurð (skera í gegn).
 
+<!-- Arcade takki: Gat/hringur: 25mm þvermál. -->
 <!--
 1. Náðu í [lok](https://github.com/GunnarThorunnarson/Bordspil/blob/main/Bordspil_lok(235x400).svg) á spilið og opnaðu það í Inkscape. 
 1. Mál á götum, svartur litur er notaður fyrir laserskurð (skera í gegn):
