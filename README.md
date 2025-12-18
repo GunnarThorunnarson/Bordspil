@@ -42,7 +42,7 @@ Borðspilið þarf að innihalda eftirfarandi íhluti:
 1. [Takki og LED](https://github.com/GunnarThorunnarson/Bordspil/blob/main/MicroPython/takki_led.py)
 1. [Random](https://github.com/GunnarThorunnarson/Bordspil/blob/main/MicroPython/random.py)
 1. [Hljóð (Passive Buzzer)](https://github.com/GunnarThorunnarson/Bordspil/blob/main/MicroPython/PassiveBuzzer.py)
-
+1. [spil (template)](https://github.com/GunnarThorunnarson/Bordspil/blob/main/MicroPython/spil.py)
 
 <!--
 
