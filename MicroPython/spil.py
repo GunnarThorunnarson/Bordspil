@@ -31,6 +31,6 @@ while True:
         time.sleep_ms(500)   
     
     time.sleep_ms(2000) #  leyfa ljósi að loga í 2 sek
-  
+    led.value(0)
         
 
