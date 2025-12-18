@@ -19,16 +19,18 @@ time.sleep_ms(500)
 
 passiveBuzzer.duty(0) # slökkva á hljóði
 
-
 while True:
+    random_time = random.randint(2000, 6000)   # millisekúndur
+    time.sleep_ms(random_time)
+    led.value(1) # led on
+    
     # ef ýtt er á takka  
     if takki.value() == 0:
-        random_time = random.randint(2000, 6000)   # millisekúndur
-        time.sleep_ms(random_time)
-        led.value(1)        # led on
-        # bæta við hljóð með takka hér
-        
-    else:
-        led.value(0)        # led off
+        # hljóð
+        passiveBuzzer.freq(4000)       
+        time.sleep_ms(500)   
+    
+    time.sleep_ms(2000) #  leyfa ljósi að loga í 2 sek
+  
         
 
