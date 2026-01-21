@@ -126,18 +126,4 @@ https://github.com/james1236/buzzer_music?tab=readme-ov-file
 
 -->
 
-<!--
-## GAMALT - ARDUINO
-[Arduino nano](https://www.studiopieters.nl/arduino-nano-pinout/)
-### Kóðadæmi:
-1. [Blink](https://learn.adafruit.com/adafruit-arduino-lesson-2-leds/blinking-the-led)
-1. [Takki](https://docs.arduino.cc/tutorials/generic/digital-input-pullup)
-1. [Buzzer](https://www.circuitbasics.com/how-to-use-active-and-passive-buzzers-on-the-arduino/#:~:text=Passive%20buzzers%20need%20a%20square,(pin%2C%20frequency%2C%20duration)%3B) og velja [lög](https://projecthub.arduino.cc/tmekinyan/playing-popular-songs-with-arduino-and-a-buzzer-546f4a)
-1. [reed switch](https://lastminuteengineers.com/reed-switch-arduino-tutorial/?utm_content=cmp-true)
-1. [Random](https://reference.arduino.cc/reference/en/language/functions/random-numbers/random/)
-#### Málfræði 
-- breytur, HIGH/LOW, OUTPUT/INPUT, int/long, if/else og == 
-- setup(), loop(), pinMode(), digitalWrite(), digitalRead(), analogRead(), delay(), Serial.begin(), Serial.println(), tone(), noTone, random(), randomSeed()
-> driver CH340 rekilinn https://sparks.gogo.co.nz/ch340.html
--->
 
