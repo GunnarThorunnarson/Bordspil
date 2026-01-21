@@ -9,7 +9,7 @@ Punktar:
 - skoða betur á cut path 
 -->
 
-## Rafrænt spil
+## Rafrænt spil.
 Í þessu verkefni ætlið þið að hanna, forrita og tengja frá grunni rafrænt spil. 
 
 Spilið þarf að innihalda eftirfarandi íhluti:
